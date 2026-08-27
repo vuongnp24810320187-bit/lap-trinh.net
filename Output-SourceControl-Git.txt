@@ -1,0 +1,17 @@
+﻿Initialize Git Repository at: D:\Đề cương\Solution1
+Your solution contains files outside the solution folder which will not be managed by Git:
+C:\Users\ASUS\source\repos\Solution1\Solution1.slnx
+
+d:\vs26\common7\ide\commonextensions\microsoft\teamfoundation\team explorer\Git\cmd\git.exe
+A new Git repository has been created for you in D:\Đề cương\Solution1. Open the Git Repository window to view its contents.
+Opening repositories:
+D:\Đề cương\Solution1
+Root element is missing.
+Opening repositories:
+D:\Đề cương\Solution1
+Root element is missing.
+Commit 62a63b5a created locally in repository D:\Đề cương\Solution1
+Opening repositories:
+D:\Đề cương\Solution1
+Opening repositories:
+D:\Đề cương\Solution1
