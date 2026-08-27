@@ -10,7 +10,7 @@ class Program
         Console.Write("Nhập số thứ hai b: ");
         double b = double.Parse(Console.ReadLine());
 
-        Console.Write("Nhập phép toán (+, -, *, /, %): ");
+        Console.Write("Nhập phép toán (+, -, *, /, %): ");          
         char op = char.Parse(Console.ReadLine());
 
         try
